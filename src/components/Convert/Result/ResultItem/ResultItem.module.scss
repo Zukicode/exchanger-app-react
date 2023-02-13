@@ -1,0 +1,50 @@
+.fromResult {
+	padding: 20px;
+	height: 70px;
+	border-radius: 12px;
+	display: flex;
+	align-items: center;
+	background: #1E192D;
+
+	.imageResult {
+		img {
+			position: relative;
+			right: 10px;
+		}
+	}
+
+	.titleResult {
+		display: flex;
+		flex-direction: column;
+		gap: 3px;
+
+		.textResult {
+			display: flex;
+			gap: 10px;
+
+			h1 {
+				font-size: 14px;
+				font-weight: 500;
+				line-height: 17px;
+				color: #ffffff;
+			}
+
+			p {
+				font-family: Inter;
+				font-size: 12px;
+				font-weight: 400;
+				line-height: 15px;
+				letter-spacing: 0em;
+				text-align: left;
+				color: rgba(#F5F5F5, 0.5);
+			}
+		}
+	}
+
+	.amountResult {
+		font-size: 19px;
+		font-weight: 700;
+		line-height: 23px;
+		color: #FFFFFF;
+	}
+}

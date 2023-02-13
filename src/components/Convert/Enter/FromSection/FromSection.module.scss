@@ -1,0 +1,14 @@
+	.fromSection {
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+
+		.titleSection {
+			font-size: 13px;
+			font-weight: 400;
+			line-height: 16px;
+			color: #B7B7B7;
+			position: relative;
+			left: 10px;
+		}
+	}
