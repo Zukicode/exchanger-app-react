@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/exchanger-app-react/static/css/main.62504d8a.css",
+    "main.js": "/exchanger-app-react/static/js/main.8999191f.js",
+    "static/media/coin-blue.svg": "/exchanger-app-react/static/media/coin-blue.1a391b6d1405d9dce55397ba96c3e3d3.svg",
+    "static/media/coin-yellow.svg": "/exchanger-app-react/static/media/coin-yellow.ad25d65170755ec8481b29d0f3ef3b8e.svg",
+    "static/media/from.png": "/exchanger-app-react/static/media/from.75937a962561ccd5004d.png",
+    "static/media/to.png": "/exchanger-app-react/static/media/to.c955b04d28ad060469a2.png",
+    "static/media/convert-icon.svg": "/exchanger-app-react/static/media/convert-icon.752a0628f9e041969f595c60193d8393.svg",
+    "static/media/equal.svg": "/exchanger-app-react/static/media/equal.3be4a5f4ded275178f3c3be494563e8e.svg",
+    "index.html": "/exchanger-app-react/index.html",
+    "static/media/change.svg": "/exchanger-app-react/static/media/change.d50d51e3f1ccb196a80b51f70201e6aa.svg",
+    "static/media/open.svg": "/exchanger-app-react/static/media/open.82acfe6a93fe0f78b7b04c1cacfa7772.svg",
+    "main.62504d8a.css.map": "/exchanger-app-react/static/css/main.62504d8a.css.map",
+    "main.8999191f.js.map": "/exchanger-app-react/static/js/main.8999191f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62504d8a.css",
+    "static/js/main.8999191f.js"
+  ]
+}
